@@ -11,3 +11,5 @@ Qué hacemos en esta demo de una APP para Clases de Idiomas:
 - Crearmos también dos miniAPPs con Documentos JSON y Servicios REST
 - El desarrollo total lleva aproximandamente unos 30 minutos
 - Exportamos la APP Clases de Idiomas y el Modelo de Datos para su posterior Distribución
+
+Aquí tenéis el enlace al vídeo de la demo: https://youtu.be/aamLZfsOVR8
