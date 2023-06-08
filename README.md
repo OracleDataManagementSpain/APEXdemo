@@ -6,7 +6,8 @@ Qué hacemos en esta demo de una APP para Clases de Idiomas:
 - Crear un Modelo de Datos para las clases, alumnos, profesores y algunas dimensiones
 - Proveer Altas, Bajas, Modificaciones y consultas de todos los datos
 - Incluír páginas adicionales para Dashboard, Mapa, Calendario y Carga de Clases
-- Customización del Estilo de Apariencia y Logos - Cómo activar y usar el Depurador (Debug)
+- Customización del Estilo de Apariencia y Logos
+- Cómo activar y usar el Depurador (Debug)
 - Crearmos también dos miniAPPs con Documentos JSON y Servicios REST
 - El desarrollo total lleva aproximandamente unos 30 minutos
-- Finalmente Exportamos la APP Clases de Idiomas y el Modelo de Datos para su posterior Distribución
+- Exportamos la APP Clases de Idiomas y el Modelo de Datos para su posterior Distribución
