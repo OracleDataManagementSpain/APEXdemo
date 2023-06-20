@@ -14,4 +14,4 @@ Qué hacemos en esta demo de una APP para Clases de Idiomas:
 
 Aquí tenéis el enlace al vídeo de la demo: https://youtu.be/aamLZfsOVR8
 
-Y aquí la presentación realizada durante el evento por Olivier Perard: 
+Y aquí la presentación realizada durante el evento por Olivier Perard: https://github.com/OracleDataManagementSpain/APEXdemo/blob/main/20230608_Oracle%20APEX.pdf
