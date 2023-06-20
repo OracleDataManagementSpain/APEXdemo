@@ -13,3 +13,5 @@ Qué hacemos en esta demo de una APP para Clases de Idiomas:
 - Exportamos la APP Clases de Idiomas y el Modelo de Datos para su posterior Distribución
 
 Aquí tenéis el enlace al vídeo de la demo: https://youtu.be/aamLZfsOVR8
+
+Y aquí la presentación realizada durante el evento por Olivier Perard: 
