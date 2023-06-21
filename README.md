@@ -1,5 +1,5 @@
 # APEXdemo
-Esta APP, Clases de Idiomas, ha sido creada desde cero por Guillermo Best para el Webcast Low Code Development del día 8 de junio desde Madrid
+Esta APP, Clases de Idiomas, ha sido creada desde cero para el Webcast Low Code Development del día 8 de junio desde Madrid
 Pronto subiremos una Guía Paso a Paso, el vídeo de cómo crear la APP y los procesos adicionales. Incluyendo como desplegarla en un nuevo entorno.
 
 Qué hacemos en esta demo de una APP para Clases de Idiomas:
@@ -14,4 +14,4 @@ Qué hacemos en esta demo de una APP para Clases de Idiomas:
 
 Aquí tenéis el enlace al vídeo de la demo: https://youtu.be/aamLZfsOVR8
 
-Y aquí la presentación realizada durante el evento por Olivier Perard: https://github.com/OracleDataManagementSpain/APEXdemo/blob/main/20230608_Oracle%20APEX.pdf
+Y aquí la presentación realizada durante el evento: https://github.com/OracleDataManagementSpain/APEXdemo/blob/main/20230608_Oracle%20APEX.pdf
